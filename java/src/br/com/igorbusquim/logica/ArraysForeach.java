@@ -1,4 +1,4 @@
-package br.com.igorbusquim.java;
+package br.com.igorbusquim.logica;
 
 public class ArraysForeach {
     static void main(String[] args) {

@@ -1,4 +1,4 @@
-package br.com.igorbusquim.java;
+package br.com.igorbusquim.logica;
 
 public class ArraysMultidimensionais02 {
     static void main(String[] args) {
